@@ -1,6 +1,6 @@
 # Nohello
 
-This is the source of [this](https://rahulsingh336.github.io/nohello/) website.
+This is the source of [this](https://rahulsingh336.github.io/) website.
 
 ## Build
 
